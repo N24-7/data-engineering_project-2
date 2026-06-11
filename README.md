@@ -90,5 +90,5 @@ jupyter notebook shopease_analysis.ipynb
 
 ## 👤 Author
 
-**Himanshi**  
+**Naman**  
 Celebal Technologies — Data Engineering Internship 2026
